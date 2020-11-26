@@ -4,7 +4,7 @@
 ### I am currently focused on Javascript, building small projects to fix the main concepts of the language and participating in online development events.
 
 Passionate about technology, diving into the Javascript universe. I like to learn new things and share knowledge.
-<br><br><br>
+<br><br>
 
 :dart: In search of Full Stack and the next level
 
@@ -17,7 +17,9 @@ Passionate about technology, diving into the Javascript universe. I like to lear
  <br>
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919827.svg"> 
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919826.svg">
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">
+<img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919825.svg">
 <img width="30" height="30" src="https://image.flaticon.com/icons/svg/919/919831.svg">
 </p>
 
