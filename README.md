@@ -1,3 +1,5 @@
+![Welcome](/image-header-github.png?raw=true)
+
 ### Hey, I'm Ewerton! 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Welcome](/image-footer-github.png?raw=true)
