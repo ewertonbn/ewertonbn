@@ -10,7 +10,7 @@ Passionate about technology, diving into the Javascript universe. I like to lear
 
 ⚡ Graduated in Information Systems, acting as web developer.
 
-- :rocket: Inserted on the <a href="https://alunos.b7web.com.br/login" target="_blank">B7Web</a> platform.
+:rocket: Inserted on the <a href="https://alunos.b7web.com.br/login" target="_blank">B7Web</a> platform.
 
 ### Languages and Technologies
 <p>
