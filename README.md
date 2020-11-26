@@ -10,7 +10,7 @@ Passionate about technology, diving into the Javascript universe. I like to lear
 
 ⚡ Graduated in Information Systems, acting as web developer.
 
-- :rocket: Inserted on the <a href="https://alunos.b7web.com.br/login">B7Web</a> platform.
+- :rocket: Inserted on the <a href="https://alunos.b7web.com.br/login" target="_blank">B7Web</a> platform.
 
 ### Languages and Technologies
 <p>
@@ -32,7 +32,7 @@ Passionate about technology, diving into the Javascript universe. I like to lear
 <p align="center">
   <strong>Let's connect and share our knowledge!</strong>
  <p align="center">
-  <a href="https://www.linkedin.com/in/ewertonbn" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonbn"></a>  
+  <a href="https://www.linkedin.com/in/ewertonbn" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonbn"></a>  
   <a href="mailto:ewertonbn.dev@gmail.com" alt="Email"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ewertonbn.dev@gmail.com"></a>  
   </p>
 </p>
