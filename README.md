@@ -6,7 +6,7 @@
 Passionate about technology, diving into the Javascript universe. I like to learn new things and share knowledge.
 <br><br>
 
-:dart: In search of Full Stack and the next level
+:dart: In search of Full Stack and the next level.
 
 ⚡ Graduated in Information Systems, acting as web developer.
 
