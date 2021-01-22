@@ -3,15 +3,13 @@
 <br/>
 
 # Ewerton Bernardo
-<hr/>
-<br/>
 
 ## This is my developer world
 
 *If you do not study for the future you want, you will be obliged to accept whatever comes!*
 
 Enthusiastic about technology, I like to learn new things and share my knowledge.
-<br><br>
+<br>
 
 🚀 In search of Full Stack and the next level.
 
@@ -19,7 +17,6 @@ Enthusiastic about technology, I like to learn new things and share my knowledge
 
 🔥 Never stop learnig!
 
-<br/>
 
 ## Some of my skills
 <p>
