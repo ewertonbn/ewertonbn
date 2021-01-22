@@ -1,4 +1,3 @@
-<br/><br/>
 <img align="right" src="./images/computer-illustration.png" width="400"/>
 
 <br/>
