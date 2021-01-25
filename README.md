@@ -1,4 +1,4 @@
-<img align="right" src="./images/computer-illustration.png" width="400"/>
+<img align="right" src="./images/programmer.png" width="400"/>
 
 <br/>
 
