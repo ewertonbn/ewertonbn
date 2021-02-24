@@ -12,14 +12,14 @@ Technology enthusiast, I'm a front-end developer, but my goal is to become a Ful
 
 👨‍💻 I currently work at <a href="https://renovedigital.com.br" target="_blank">Renove Digital</a>
 
-💡 I am studying Javacript, React and Next.js
+💡 I am studying Javacript, ReactJS and Next.js
 
-⚡ I try to collaborate on front-end projects using React or Next.js to train my skills and dmin the javascript
+⚡ I try to collaborate on front-end projects using ReactJS or Next.js to train my skills and dmin the javascript
 
 
 🔥 I can help you with Semantic HTML, CSS Grid Layout, Flexbox and Responsive
 
-🚀 My stack: Javascript, React, Next.js
+🚀 My stack: Javascript, ReactJS, Next.js
 
 💬 About me: short technology, mobile games and action and adventure movies
 
