@@ -14,8 +14,7 @@ Technology enthusiast, I'm a front-end developer, but my goal is to become a Ful
 
 💡 I am studying Javacript, ReactJS and Next.js
 
-⚡ I try to collaborate on front-end projects using ReactJS or Next.js to train my skills and dmin the javascript
-
+⚡ I try to collaborate on front-end projects using ReactJS or Next.js to train my skills and master javascript
 
 🔥 I can help you with Semantic HTML, CSS Grid Layout, Flexbox and Responsive
 
