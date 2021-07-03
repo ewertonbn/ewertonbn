@@ -1,31 +1,36 @@
-<p align="left">
-
 # Ewerton Bernardo
 
-### Welcome to my world
+### Abount me
 
 *If you do not study for the future you want, you will be obliged to accept whatever comes!*
 <br>
 
-Technology enthusiast, I'm a front-end developer, but my goal is to become a Full Stack!
-<br>
+<img src="./images/hero.svg" align="right" width="400" height="400" />
+
+I'm a front-end developer passionate about what I do, creating interfaces for me is an adventure, and every day I try to specialize myself more and more.
+</br>
 
 👨‍💻 I currently work at <a href="https://renovedigital.com.br" target="_blank">Renove Digital</a>
 
-💡 I am studying Javacript, ReactJS and Next.js
+⚡ I'm focused on Javascript, ReactJS and Next.js.
 
-⚡ I try to collaborate on front-end projects using ReactJS or Next.js to train my skills and master javascript
+💡 I try to collaborate on front-end projects using HTML, CSS and Javascript as well as ReactJS or Next.js to transmit my knowledge and improve my skills.
 
-🔥 I can help you with Semantic HTML, CSS Grid Layout, Flexbox and Responsive
+🔥 I can help you with semantic HTML, CSS grid layout, flexbox, responsiveness and animations.
 
-🚀 My stack: Javascript, ReactJS, Next.js
+🚀 Technologies I use: HTML, CSS, SCSS, Styled-components, Javascript, ReactJS and Next.js.
 
-💬 About me: short technology, mobile games and action and adventure movies
-
+💬 Hobbies: Mobile games, good books and action-adventure movies
 
 <br/>
 
+ <div>
+  <a href="https://github.com/ewertonbn">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ewertonbn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonbn&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
+<br/><br/>
   <strong>Contact me!</strong>
  <p align="left">
   <a href="https://www.linkedin.com/in/ewertonbn" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonbn"></a>  
