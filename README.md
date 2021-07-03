@@ -10,7 +10,7 @@
 I'm a front-end developer passionate about what I do, creating interfaces for me is an adventure, and every day I try to specialize myself more and more.
 </br>
 
-👨‍💻 I currently work at <a href="https://renovedigital.com.br" target="_blank">Renove Digital</a>
+👨‍💻 I currently work at <a href="https://renovedigital.com.br" target="_blank">Renove Digital.</a>
 
 ⚡ I'm focused on Javascript, ReactJS and Next.js.
 
@@ -20,7 +20,7 @@ I'm a front-end developer passionate about what I do, creating interfaces for me
 
 🚀 Technologies I use: HTML, CSS, SCSS, Styled-components, Javascript, ReactJS and Next.js.
 
-💬 Hobbies: Mobile games, good books and action-adventure movies
+💬 Hobbies: Mobile games, good books and action-adventure movies.
 
 <br/>
 
