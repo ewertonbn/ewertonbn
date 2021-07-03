@@ -1,4 +1,4 @@
-# Abount me
+# About me
 
 *If you do not study for the future you want, you will be obliged to accept whatever comes!*
 <br>
