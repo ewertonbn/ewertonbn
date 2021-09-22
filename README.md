@@ -8,7 +8,7 @@
 I'm a front-end developer passionate about what I do, creating interfaces for me is an adventure, and every day I try to specialize myself more and more.
 </br>
 
-👨‍💻 I currently work at <a href="https://renovedigital.com.br" target="_blank">Renove Digital.</a>
+👨‍💻 I currently work at <a href="https://www.redemagic.com/" target="_blank">Rede Magic.</a>
 
 ⚡ I'm focused on Javascript, ReactJS and Next.js.
 
